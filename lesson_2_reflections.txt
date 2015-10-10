@@ -12,3 +12,7 @@ What value do you think it offers?
 	the repository contains all versions of the files you have committed
 	the staging area contains the names of files you will like to commit together.
 	the staging area offers flexibility, you choose which files are going to be committed.
+	
+How can you use the staging area to make sure you have one commit per logical change?
+
+	before to commit only have logical related file in the staging area and than commit them together
